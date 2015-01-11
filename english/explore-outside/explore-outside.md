@@ -19,5 +19,3 @@ Do you:
 
 [Talk to the child fishing in order to try and figure out where you are?](./talk-child/talk-child.md)
 
-[Throw the rope found the jacket to help the child from drowning](./throw-rope/throw-rope.md)
-
